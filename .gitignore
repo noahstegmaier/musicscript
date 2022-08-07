@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# generated ninja files
+.ninja_log
+compress.ninja
